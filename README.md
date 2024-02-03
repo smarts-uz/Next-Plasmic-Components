@@ -1,3 +1,8 @@
+used https://github.com/learnwithjason/visual-page-plasmic-nextjs/blob/main/plasmic-init.ts  this git project
+
+https://www.youtube.com/watch?v=YMh25LhvsL0&ab_channel=LearnWithJason  Full tutorial Added
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
