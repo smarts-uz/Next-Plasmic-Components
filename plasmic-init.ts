@@ -1,5 +1,6 @@
 import { initPlasmicLoader } from "@plasmicapp/loader-nextjs";
 import HelloWorld from "./components/HelloWorld";
+import  ReactPhotoAlbum  from "./components/ReactPhotoAlbum";
 
 export const PLASMIC = initPlasmicLoader({
     projects: [
@@ -15,5 +16,10 @@ export const PLASMIC = initPlasmicLoader({
 
 PLASMIC.registerComponent(HelloWorld, {
     name: 'Hello World',
+    props: { }
+});
+
+PLASMIC.registerComponent(ReactPhotoAlbum, {
+    name: 'ReactGallery',
     props: { }
 });
